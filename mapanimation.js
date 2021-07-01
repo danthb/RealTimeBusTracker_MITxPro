@@ -256,4 +256,7 @@ busStops.forEach((currentPosition, index) => {
 /* ----------------------------------------------------------------------
  */
 
-
+function relocate_home()
+{
+     location.href = "https://danthb.github.io/";
+} 
