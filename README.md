@@ -57,7 +57,7 @@ SOFTWARE.
     - README.md
     - LICENSE
     - styles.css
-    - icons
+    - /icons
         - 0_bus.png
         - 1_bus.png
         - 2_bus.png
